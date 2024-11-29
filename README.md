@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou o João Pedro 👋🏻<br><br>✨ Desenvolvedor em formação 🚀<br>🎓 Estudante do Ensino Médio | 💻 Técnico em Desenvolvimento de Sistemas no SENAI Morvan Figueiredo<br>🌟 Apaixonado por tecnologia, programação e aprendizado contínuo!<br>🔧 Explorando o mundo do código para criar soluções que fazem a diferença!<br><br>👾 Áreas de Interesse:<br><br>🌐 Desenvolvimento Web<br>📱 Desenvolvimento Mobile<br>🤖 Inteligência Artificial<br>💡 Projetos para Impacto Social<br>📌 "Transformando ideias em código e sonhos em realidade."</p>
+<p align="left">Olá! Eu sou o João Pedro 👋🏻<br><br>✨ Desenvolvedor em formação 🚀<br>🎓 Estudante do Ensino Médio | 💻 Técnico em Desenvolvimento de Sistemas no SENAI Morvan Figueiredo<br>🌟 Apaixonado por tecnologia, programação e aprendizado contínuo!<br>🔧 Explorando o mundo do código para criar soluções que fazem a diferença!<br><br>👾 Áreas de Interesse:<br><br>🌐 Desenvolvimento Web<br>📱 Desenvolvimento Mobile<br>🦾 Engenharia de Software<br>💡 Projetos para Impacto Social<br>📌 "Transformando ideias em código e sonhos em realidade."</p>
 
 ###
 
