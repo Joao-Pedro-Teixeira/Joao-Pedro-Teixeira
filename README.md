@@ -1,70 +1,73 @@
-<h2 align="left">About me</h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F5CFF&height=150&section=header"/>
+</p>
 
-###
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=435&lines=Ol%C3%A1%21+me+chamo+Jo%C3%A3o+Pedro;Desenvolvedor+Fullstack;Focado+em+Tecnologias+Web;HTML%2C+CSS%2C+JS%2C+Python%2C+AWS+e+MySQL" />
+</p>
 
-<br clear="both">
+---
 
-<img align="right" height="300" src="https://i.redd.it/kypol8kibr2e1.png"  />
+### 🧑‍💻 Sobre mim
 
-###
+Desenvolvedor Fullstack apaixonado por tecnologia. Trabalho com front-end, back-end e banco de dados, sempre buscando aprimorar minhas habilidades e aprender novas ferramentas para criar soluções eficientes e modernas.
 
-<p align="left">Olá! Eu sou o João Pedro 👋🏻<br><br>✨ Desenvolvedor em formação 🚀<br>🎓 Estudante do Ensino Médio | 💻 Técnico em Desenvolvimento de Sistemas no SENAI Morvan Figueiredo<br>🌟 Apaixonado por tecnologia, programação e aprendizado contínuo!<br>🔧 Explorando o mundo do código para criar soluções que fazem a diferença!<br><br>👾 Áreas de Interesse:<br><br>🌐 Desenvolvimento Web<br>📱 Desenvolvimento Mobile<br>🦾 Engenharia de Software<br>💡 Projetos para Impacto Social<br>📌 "Transformando ideias em código e sonhos em realidade."</p>
+---
 
-###
+### 🚀 Tecnologias & Ferramentas
 
-<h2 align="left">Techs 🤖</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
-</div>
+### 📊 GitHub Insights
 
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Teixeira&show_icons=true&theme=radical&title_color=8F5CFF&icon_color=8F5CFF&text_color=C9D1D9&bg_color=0D1117" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Pedro-Teixeira&theme=radical&stroke=8F5CFF&ring=8F5CFF&fire=8F5CFF&currStreakLabel=8F5CFF&sideLabels=C9D1D9&sideNums=C9D1D9" width="49%" />
+</p>
 
-<h2 align="left">Stats 📊</h2>
+---
 
-###
+### 📊 Linguagens mais usadas
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Teixeira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joao-Pedro-Teixeira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Teixeira&layout=compact&langs_count=7&theme=radical&title_color=8F5CFF&text_color=C9D1D9&bg_color=0D1117"/>
+</p>
 
-###
+---
 
-<h2 align="left">Social Media</h2>
+### 🐍 Snake contrib
 
-###
+<p align="center">
+  <img src="https://github.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/blob/output/github-contribution-grid-snake.svg?raw=true" />
+</p>
 
-<div align="left">
+---
+
+### 📫 Onde me encontrar
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-teixeira-b458a4301/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-7A42F4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://wa.me/5511933017279?text=Ol%C3%A1!%20Eu%20me%20chamo%20Jo%C3%A3o%20Pedro" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="https://www.instagram.com/joaopedro_ppt/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
-###
+  <a href="mailto:joaoppt1903@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-8F5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F5CFF&height=150&section=footer"/>
+</p>
+
