@@ -1,74 +1,102 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F5CFF&height=150&section=header"/>
-</p>
+<!-- ===== ONDAS LARANJA (TOPO) ===== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=220&section=header&text=Jo%C3%A3o%20Pedro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+</div>
 
-<!-- Typing animation corrigida -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=8F5CFF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%21+me+chamo+Jo%C3%A3o+Pedro;Desenvolvedor+Fullstack;Focado+em+tecnologias+web;HTML%2C+CSS%2C+JS%2C+Python+e+SQL" alt="Typing SVG" />
-</p>
+<!-- ===== TÍTULO DIGITANDO ===== -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Back-end;Construindo+APIs+robustas+e+escaláveis;Arquitetura+limpa+e+código+testável;Transformando+ideias+em+software" />
+</div>
 
----
-
-### 🧑‍💻 Sobre mim
-
-Sou João Pedro, desenvolvedor Fullstack com experiência em front-end, back-end e banco de dados.  
-Tenho grande interesse em tecnologias modernas, AWS e boas práticas de desenvolvimento.  
-Estou sempre buscando aprender mais e evoluir meus projetos e habilidades.
+<br>
 
 ---
 
-### 🚀 Tecnologias & Ferramentas
+<!-- ===== SOBRE MIM (CÓDIGO) ===== -->
+<h2 align="center">Sobre mim</h2>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
-</p>
+```python
+class João_Pedro:
+    def __init__(self):
+        self.username   = "Joao-Pedro-Teixeira"
+        self.linguagens = ["Python", "Java", "JavaScript", "HTML", "CSS"]
+        self.frameworks = ["Django", "NumPy", "Pandas"]
+        self.databases  = ["SQLite", "MySQL", "SQL Server", "MongoDB"]
+        self.clouds     = ["AWS", "Azure", "Google Cloud Platform"]
+        self.interesses = ["Inteligência Artificial", "Machine Learning", "Data Science", "Automações"]
+        self.objetivo   = "Construir sistemas back-end robustos, escaláveis e fáceis de manter"
 
----
+    def hello_world(self):
+        print("Seja bem-vindo ao meu perfil! Bora construir algo incrível juntos?")
 
-### 📊 GitHub Insights
+me = João_Pedro()
+me.hello_world()
+```
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Teixeira&show_icons=true&theme=radical&title_color=8F5CFF&icon_color=8F5CFF&text_color=C9D1D9&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Joao-Pedro-Teixeira&theme=radical&stroke=8F5CFF&ring=8F5CFF&fire=8F5CFF&currStreakLabel=8F5CFF&sideLabels=C9D1D9&sideNums=C9D1D9" width="49%" />
-</p>
-
----
-
-### 📦 Linguagens Mais Usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Teixeira&layout=compact&theme=radical&title_color=8F5CFF&text_color=C9D1D9&bg_color=0D1117" />
-</p>
+<br>
 
 ---
 
-### 🐍 Snake contrib (FUNCIONAL)
+<!-- ===== STACKS ===== -->
+<h2 align="center">Minhas Stacks</h2>
 
-<p align="center">
-  <img src="https://github.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/blob/output/github-contribution-grid-snake.svg" />
-</p>
+<h3 align="center">Linguagens & Frameworks</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-161B22?style=for-the-badge&logo=python&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Django-161B22?style=for-the-badge&logo=django&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/NumPy-161B22?style=for-the-badge&logo=numpy&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Pandas-161B22?style=for-the-badge&logo=pandas&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Java-161B22?style=for-the-badge&logo=openjdk&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/JavaScript-161B22?style=for-the-badge&logo=javascript&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/HTML-161B22?style=for-the-badge&logo=html5&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/CSS-161B22?style=for-the-badge&logo=css3&logoColor=FF8C00" />
+</div>
+
+<h3 align="center">Banco de Dados</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/SQLite-161B22?style=for-the-badge&logo=sqlite&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/MySQL-161B22?style=for-the-badge&logo=mysql&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/SQL%20Server-161B22?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/MongoDB-161B22?style=for-the-badge&logo=mongodb&logoColor=FF8C00" />
+</div>
+
+<h3 align="center">Cloud</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS-161B22?style=for-the-badge&logo=amazonwebservices&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Azure-161B22?style=for-the-badge&logo=microsoftazure&logoColor=FF8C00" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-161B22?style=for-the-badge&logo=googlecloud&logoColor=FF8C00" />
+</div>
+
+<h3 align="center">Interesses</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Science-FF8C00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automações-FF6A00?style=for-the-badge" />
+</div>
+
+<br>
 
 ---
 
-### 📫 Onde me encontrar
+<!-- ===== ESTATÍSTICAS ===== -->
+<h2 align="center">Estatísticas</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-pereira-teixeira-b458a4301/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7A42F4?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:joaoppt1903@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-8F5CFF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Teixeira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF6A00&text_color=C9D1D9&ring_color=FF8C00" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Teixeira&layout=compact&langs_count=8&size_weight=0&count_weight=1&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" />
+</div>
 
----
+<br>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8F5CFF&height=150&section=footer"/>
-</p>
+<!-- ===== COBRINHA DE CONTRIBUIÇÕES ===== -->
+<h2 align="center">Contribuições</h2>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/output/snake.svg" alt="Snake animation" width="100%" />
+</div>
+
+<br>
+
+<!-- ===== ONDAS LARANJA (RODAPÉ) ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer" width="100%" />
