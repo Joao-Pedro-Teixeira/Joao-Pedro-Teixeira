@@ -1,11 +1,11 @@
 <!-- ===== ONDAS LARANJA (TOPO) ===== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=220&section=header&text=Jo%C3%A3o%20Pedro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=220&section=header&text=Jo%C3%A3o%20Pedro&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <!-- ===== TÍTULO DIGITANDO ===== -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Back-end;Construindo+APIs+robustas+e+escaláveis;Arquitetura+limpa+e+código+testável;Transformando+ideias+em+software" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&height=50&lines=Desenvolvedor+Back-end;Construindo+APIs+robustas+e+escal%C3%A1veis;Arquitetura+limpa+e+c%C3%B3digo+test%C3%A1vel;Transformando+ideias+em+software" />
 </div>
 
 <br>
@@ -72,7 +72,7 @@ me.hello_world()
   <img src="https://img.shields.io/badge/Artificial%20Intelligence-FF8C00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6A00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data%20Science-FF8C00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Automações-FF6A00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Automa%C3%A7%C3%B5es-FF6A00?style=for-the-badge" />
 </div>
 
 <br>
@@ -93,10 +93,14 @@ me.hello_world()
 <h2 align="center">Contribuições</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/output/snake.svg" alt="Snake animation" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/output/snake.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/output/snake-light.svg" />
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/Joao-Pedro-Teixeira/Joao-Pedro-Teixeira/output/snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br>
 
 <!-- ===== ONDAS LARANJA (RODAPÉ) ===== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,30&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF8C00&height=120&section=footer" width="100%" />
