@@ -83,8 +83,8 @@ me.hello_world()
 <h2 align="center">Estatísticas</h2>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Teixeira&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=FF6A00&text_color=C9D1D9&ring_color=FF8C00" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Teixeira&layout=compact&langs_count=8&size_weight=0&count_weight=1&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9" />
+  <img height="170" alt="Estatísticas do GitHub" src="./profile-summary-card-output/dark/3-stats.svg" />
+  <img height="170" alt="Linguagens mais usadas" src="./profile-summary-card-output/dark/2-most-commit-language.svg" />
 </div>
 
 <br>
